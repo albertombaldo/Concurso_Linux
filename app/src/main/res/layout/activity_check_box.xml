@@ -53,6 +53,7 @@
         android:layout_marginEnd="157dp"
         android:layout_marginBottom="302dp"
         android:text="SIGUIENTE"
+        android:onClick="siguientePantalla3"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
